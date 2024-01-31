@@ -8,7 +8,7 @@ Areas of the code which I made significant contributions to include the followin
 
 [Traverse and Copy](src/traverse_and_copy)
 
-I also contributed significantly to developing an initial deign for the GC, as well as cross-module testing and the generation of issues during production.
+I also contributed significantly to developing an initial design for the GC, as well as cross-module testing and the generation of Issues during production.
 
 The project report and documentation (beyond the README below) can be found at [Project Report](proj), and includes details of test results, workflow and reflections.
 
