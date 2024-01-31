@@ -1,3 +1,17 @@
+Here I have copied, as-is, a group project from the course Imperative and Object Oriented Programming Methodologies at Uppsala University. The aim of the project was primarily to develop collaborative programming practices and version control, secondly to produce a conservative, compacting garbage collector after Bartlett, in and for C. While time did not suffice to iron out all the bugs necessary to meet this secondary goal, it showcases to some extent where my abilities stood in regards to C programming in the winter of 2022/2023.
+
+Areas of the code which I made significant contributions to include the following modules:
+
+[Bitvector](src/bitvector)
+
+[Garbage Collector](src/garbage_collector)
+
+[Traverse and Copy](src/traverse_and_copy)
+
+The project report and documentation (beyond the README below) can be found at [Project Report](proj), and includes 
+
+Below is the orginal README file.
+
 # Undefined Garbage Collector
 Do you also hate having to manage memory,\
 but desperately need to put C programming knowledge on your resume?\
