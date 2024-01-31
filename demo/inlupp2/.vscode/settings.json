@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "hash_table.h": "c",
+        "utils.h": "c"
+    }
+}
